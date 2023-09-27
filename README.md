@@ -1,16 +1,5 @@
-# atividade_dm
+Atividade desenvolvida em flutter seguindo os seguintes requisitos:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Crie um app que possua uma tela inicial de apresentação, que leva o usuário para outra tela que conterá uma lista;
+Essa lista possuirá itens da sua escolha (menos de música, pois já é o exemplo mostrado);
+Incluir imagens destes itens nessa lista, provenientes dos assets do app;
